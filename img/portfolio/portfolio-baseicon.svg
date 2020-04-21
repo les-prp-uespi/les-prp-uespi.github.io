@@ -170,9 +170,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39357595"
-     inkscape:cx="629.73449"
-     inkscape:cy="599.86453"
+     inkscape:zoom="1.1132009"
+     inkscape:cx="205.76825"
+     inkscape:cy="223.10302"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -199,8 +199,8 @@
      id="layer1"
      transform="translate(0,-308.26772)">
     <path
-       inkscape:export-ydpi="308.23956"
-       inkscape:export-xdpi="308.23956"
+       inkscape:export-ydpi="68.010002"
+       inkscape:export-xdpi="68.010002"
        inkscape:export-filename="/Users/alcemirsantos/Workspace/LESWorkspace/les-prp-uespi.github.io/img/profile.png"
        transform="scale(-1,1)"
        d="M -795.43825,600.99915 A 150.41315,148.81577 0 0 1 -638.54505,459.06539 150.41315,148.81577 0 0 1 -494.90492,614.12676 150.41315,148.81577 0 0 1 -651.4631,756.42217 150.41315,148.81577 0 0 1 -795.46838,601.69269"
@@ -214,21 +214,7 @@
        id="path203"
        style="fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:29.98052216;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:open="true" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4992"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="308.23956"
-       inkscape:export-ydpi="308.23956"
-       transform="translate(-6.08538,252.60362)"><flowRegion
-         id="flowRegion4994"><rect
-           id="rect4996"
-           width="244.45691"
-           height="272.74118"
-           x="329.30972"
-           y="404.68323" /></flowRegion><flowPara
-         id="flowPara4998"
-         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <path
+    <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.74984789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -6.08538,560.87134 v 0"
        id="path4274"
@@ -248,17 +234,19 @@
        sodipodi:end="3.1834631"
        sodipodi:open="true"
        d="M -1.2434443,533.29052 A 490.84793,237.56342 0 0 1 510.9053,306.71747 490.84793,237.56342 0 0 1 979.48301,554.39632 490.84793,237.56342 0 0 1 468.13572,781.393 490.84793,237.56342 0 0 1 -1.3165973,534.10241" />
+    <path
+       inkscape:export-ydpi="308.23956"
+       inkscape:export-xdpi="308.23956"
+       inkscape:export-filename="/Users/alcemirsantos/Documents/Workspace/alcemirsantos.github.io/img/portfolio/cotonet.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4269"
+       d="m 23.828915,833.25668 -0.44326,188.64672 261.859595,0.216 -0.75666,-187.45088 z"
+       style="fill:#162d50;fill-rule:evenodd;stroke:#162d50;stroke-width:0.92227995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
-       id="g450">
-      <path
-         style="fill:#006680;fill-rule:evenodd;stroke:#006680;stroke-width:0.92227995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 23.828915,833.25668 -0.44326,188.64672 261.859595,0.216 -0.75666,-187.45088 z"
-         id="path4269"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-filename="/Users/alcemirsantos/Documents/Workspace/alcemirsantos.github.io/img/portfolio/cotonet.png"
-         inkscape:export-xdpi="308.23956"
-         inkscape:export-ydpi="308.23956" />
+       id="g465"
+       inkscape:export-xdpi="308.23956"
+       inkscape:export-ydpi="308.23956">
       <path
          style="fill:#dbe2e3;fill-rule:evenodd;stroke:#dbdee3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 142.51599,910.21416 -17.47107,9.37473 c -0.33348,0.22652 -0.76764,0.36675 -0.42612,1.17184 l 2.02409,3.83511 c 0.39061,0.80114 0.78123,0.34085 1.17184,0.31959 l 11.7184,-4.90042 c 0.28142,-4.62787 1.62093,-7.23576 2.98286,-9.80085 z"
@@ -330,7 +318,7 @@
        inkscape:connector-curvature="0"
        id="path60"
        d="m 23.072257,610.18079 -0.44326,188.64671 261.859593,0.21602 -0.75666,-187.45089 z"
-       style="fill:#006680;fill-rule:evenodd;stroke:#006680;stroke-width:0.92227995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#162d50;fill-rule:evenodd;stroke:#162d50;stroke-width:0.92227995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:open="true"
        style="fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:12.1008234;stroke-miterlimit:4;stroke-dasharray:none"
@@ -416,8 +404,8 @@
        id="g441"
        transform="matrix(1.3080975,0,0,1.3758754,-191.03011,-235.26276)"
        inkscape:export-filename="/Users/alcemirsantos/Workspace/LESWorkspace/les-prp-uespi.github.io/img/profile.png"
-       inkscape:export-xdpi="308.23956"
-       inkscape:export-ydpi="308.23956">
+       inkscape:export-xdpi="68.010002"
+       inkscape:export-ydpi="68.010002">
       <text
          inkscape:export-ydpi="225.78999"
          inkscape:export-xdpi="225.78999"
