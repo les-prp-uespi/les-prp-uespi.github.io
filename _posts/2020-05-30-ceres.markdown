@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2020-05-30
+img: baseicon.png
+alt: image-alt
+title: CERES
+project-date: Maio de 2020
+client: Universidade Estadual do Piauí
+link: "https://github.com/les-prp-uespi/ceres"
+category: Desenvolvimento de software web
+description:  <i>CERES</i> é um acrônimo para "Central de Reservas da UESPI". O sistema de software permite a comunidade do campus solicitar reservas dos recursos disponíveis no campus.O código do aplicativo e do site do CERES está disponível <a href="https://github.com/les-prp-uespi/ceres">CERES@GitHub</a>.
+
+---

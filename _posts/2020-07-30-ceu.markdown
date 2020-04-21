@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2020-07-30
+img: baseicon.png
+alt: image-alt
+title: CEU
+project-date: Julho 2020
+client: Universidade Estadual do Piauí
+link: "https://github.com/les-prp-uespi/ceu-prp"
+category: Desenvolvimento de software web
+description:  <i>CEU</i> é um acrônimo para "Central de Eventos da UESPI". O sistema de software permite a comunidade do campus gerenciar eventos locais e emitir certificados. O código do aplicativo e do site do CERES está disponível <a href="https://github.com/les-prp-uespi/ceu-prp">CEU@GitHub</a>.
+
+---
