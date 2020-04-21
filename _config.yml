@@ -1,12 +1,12 @@
 # Site settings
-title: Alcemir R. Santos,  Ph.D.
-email: alcemirsantos@gmail.com
-url: https://alcemirsantos.github.io
-description: "Alcemir Rodrigues Santos has a Ph.D. in Computer Science from the
-  University of Bahia (2017). He has experience in Software
-  Engeneering."
-skills: "Software Engineer - Researcher - Judoka"
-meta_author: Santos Alcemir
+title: Laboratório de Engenharia de Software
+email: les@prp.uespi.br
+url: https://les-prp-uespi.github.io
+description: "O Laboratório de Engenharia de Software é um projeto de extensão da 
+Universidade Estadual do Piauí executado no Campus de Piripiri e liderado pelo 
+Prof. Alcemir Rodrigues Santos e colaboração dos professores Vigno Moura e Fabbio Borges."
+skills: "Desenvolvimento Web e Móvel"
+meta_author: Laboratório Engenharia de Software
 
 # Google webmaster tools
 google_verify:
@@ -34,29 +34,29 @@ color:
 # Footer settings
 footer:
   copyright: Alcemir R. Santos
-  location: Location
+  location: Piripiri - Piauí
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/alcemirsantos
-  - title: facebook
-    url: http://facebook.com/alcemirsantos
+  #- title: twitter
+  #  url: http://twitter.com/alcemirsantos
+  #- title: facebook
+  #  url: http://facebook.com/alcemirsantos
   #- title: stack-overflow
   #  url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: linkedin
-    url: https://br.linkedin.com/in/alcemirsantos
-  - title: bitbucket
-    url: http://bitbucket.org/alcemirsantos
+  #- title: linkedin
+  #  url: https://br.linkedin.com/in/alcemirsantos
+  #- title: bitbucket
+  #  url: http://bitbucket.org/alcemirsantos
   - title: github
-    url: http://github.com/alcemirsantos
+    url: http://github.com/les-prp-uespi
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Brazil
-  - line: Teresina - Piauí
+  - line: Piripiri - Piauí
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
