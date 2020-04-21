@@ -34,9 +34,9 @@ color:
 # Footer settings
 footer:
   copyright: Alcemir R. Santos
-  location: Piripiri - Piauí
-  social: Around the Web
-  credits: Credits
+  location: Onde Estamos
+  social: Nós na Web
+  credits: Créditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Brazil
+  - line: Brasil
   - line: Piripiri - Piauí
 
 # Credits content
