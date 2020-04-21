@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-04-30
+img: fclsuite.png
+alt: image-alt
+project-date: June 2014
+client: Reuse in Software Engineering Laboratory (RiSELabs)
+link: "http://www.rise.com.br/riselabs/"
+category: Software Development
+description: <b>FCLSuite</b> is an open-source Eclipse plug-in to support consistency on conditional compilation based source code available at <a href="https://github.com/riselabs-ufba/fclsuite">GitHub</a>. It checks conditional compilation code against the existing feature constraints of the feature model and it adds warnings in the source code editor line to highlight potential inconsistences.
+
+---

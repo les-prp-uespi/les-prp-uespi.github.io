@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2016-07-28
+img: cotonet.png
+alt: image-alt
+project-date: August 2015 
+client: Universität Passau
+link: "http://www.infosun.fim.uni-passau.de/spl" 
+category: Software Development
+description: <b>What?</b> Cotonet is a tool to build conflict-based networks. More specifically, a tool that collects information form Git repositories concerning branch merges' conflicts to build developer collaboration's networks. <b>How?</b> The implementation relies on JGit to clone repositories and extract project specific informations regarding its merge scenarios. <b>Souce-code?</b> Cotonet is open-source and is available among the <a href="https://github.com/riselabs-ufba/cotonet">RiSE Labs GitHub profile</a>.
+
+---
