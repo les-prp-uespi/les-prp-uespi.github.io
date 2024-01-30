@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2023-07-30
-img: logo-sigex.png
+img: sigex.png
 alt: image-alt
 title: SiGEx
 project-date: Julho 2023
