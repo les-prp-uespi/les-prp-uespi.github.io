@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 3
-date: 2020-07-30
+date: 2023-07-30
 img: baseicon.png
 alt: image-alt
 title: SiGEx
-project-date: Julho 2020
+project-date: Julho 2023
 client: Universidade Estadual do Piauí
 link: "https://github.com/les-prp-uespi/sigex"
-category: Desenvolvimento de software web
+category: Desenvolvimento de software web e móvel
 description:  <i>SiGEx</i> é um acrônimo para "Sistema de Gestão de Extensão da UESPI". O sistema de software permite a comunidade do campus gerenciar eventos locais e emitir certificados, bem como criar grupos de interesse e associar eles. O código do aplicativo e do site do SiGEx está disponível <a href="https://github.com/les-prp-uespi/sigex">SiGEx@GitHub</a>.
 
 ---
