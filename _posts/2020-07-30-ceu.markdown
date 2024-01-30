@@ -4,11 +4,11 @@ modal-id: 3
 date: 2020-07-30
 img: baseicon.png
 alt: image-alt
-title: CEU
+title: SiGEx
 project-date: Julho 2020
 client: Universidade Estadual do Piauí
-link: "https://github.com/les-prp-uespi/ceu"
+link: "https://github.com/les-prp-uespi/sigex"
 category: Desenvolvimento de software web
-description:  <i>CEU</i> é um acrônimo para "Central de Eventos da UESPI". O sistema de software permite a comunidade do campus gerenciar eventos locais e emitir certificados. O código do aplicativo e do site do CERES está disponível <a href="https://github.com/les-prp-uespi/ceu">CEU@GitHub</a>.
+description:  <i>SiGEx</i> é um acrônimo para "Sistema de Gestão de Extensão da UESPI". O sistema de software permite a comunidade do campus gerenciar eventos locais e emitir certificados, bem como criar grupos de interesse e associar eles. O código do aplicativo e do site do SiGEx está disponível <a href="https://github.com/les-prp-uespi/sigex">SiGEx@GitHub</a>.
 
 ---
