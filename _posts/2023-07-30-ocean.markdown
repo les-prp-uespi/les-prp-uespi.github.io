@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2020-07-30
-img: baseicon.png
+img: logo-ocean.png
 alt: image-alt
 title: Ocean
 project-date: Julho 2023
