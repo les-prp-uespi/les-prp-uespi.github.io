@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2020-07-30
+img: baseicon.png
+alt: image-alt
+title: Ocean
+project-date: Julho 2023
+client: Universidade Estadual do Piauí
+link: "https://github.com/les-prp-uespi/"
+category: Desenvolvimento de software web, móvel e chrome
+description:  <i>Ocean</i> é um sistema persuasivo, com o intuito de criar o hábito saudável da ingestão correta de água. O sistema de software permite o usuário controlar sua ingestão diária de água através de um aplicativo móvel, uma extensão chrome ou mesmo um software desktop. O código do aplicativo e do site do Ocean está disponível <a href="https://github.com/les-prp-uespi/ocean">Ocean@GitHub</a>.
+
+---
